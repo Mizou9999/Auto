@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Synerga Pro';
+    src: url('SynergaPro-Regular.eot');
+    src: url('SynergaPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('SynergaPro-Regular.woff2') format('woff2'),
+        url('SynergaPro-Regular.woff') format('woff'),
+        url('SynergaPro-Regular.ttf') format('truetype'),
+        url('SynergaPro-Regular.svg#SynergaPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Synerga Pro';
+    src: url('SynergaPro-Italic.eot');
+    src: url('SynergaPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('SynergaPro-Italic.woff2') format('woff2'),
+        url('SynergaPro-Italic.woff') format('woff'),
+        url('SynergaPro-Italic.ttf') format('truetype'),
+        url('SynergaPro-Italic.svg#SynergaPro-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
